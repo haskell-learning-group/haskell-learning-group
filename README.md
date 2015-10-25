@@ -1,5 +1,7 @@
 https://haskell-learning.slack.com/
 
+[На русском](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.ru.md)
+
 # What's this?
 We offer a Haskell mentoring program for everyone.
 
