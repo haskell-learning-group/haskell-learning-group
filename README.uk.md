@@ -1,5 +1,7 @@
 https://haskell-learning.slack.com/
 
+[In English](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.md) | [На русском](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.ru.md) | [In het Nederlands](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.nl.md)
+
 # Що це?
 
 Ми пропонуємо безкоштовну програму менторства для вивчення мови
