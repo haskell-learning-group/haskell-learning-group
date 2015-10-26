@@ -15,7 +15,7 @@ After some time we expect you to gain enough skills so that you no longer need a
 Just email Alexey Shmalko at <rasen.dubi@gmail.com> or Konstiantyn Rybnikov at <k-bx@k-bx.com> and we'll add you to Slack.
 
 ## I haven't programmed before, can I still take part?
-Sure. Actually, learning Haskell is like learning programming from scratch, so you'll be on a similar level as most others.
+Sure. Actually, learning Haskell is like learning programming from scratch, so you're starting on a similar level to most others.
 
 # I want to be a mentor, what should I do?
 Great, message Alexey or Kostia and we'll discuss that.
