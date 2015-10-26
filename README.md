@@ -23,7 +23,7 @@ Great, message Alexey or Kostia and we'll discuss that.
 ## I'm not sure I'll be a good mentor but want to try
 That's okay, we'll have you pair up with an experienced mentor who can help you out.
 
-# Can I join if I don't want to be part of mentoring?
+# Can I join if I don't want a mentor?
 Yeah, sure. Everyone is free to participate in discussions and ask questions in the general channels.
 
 # Other questions
