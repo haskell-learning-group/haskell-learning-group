@@ -9,6 +9,11 @@ When you join a group, we assign you to an appropriate mentor based on your skil
 
 After some time we expect you to gain enough skills so that you no longer need a mentor. Indeed, we expect you to start helping people out in the general channels and eventually become a mentor to others, but that's pretty optional.
 
+There is also a number of study groups:
+
+- [#learning-lens](https://haskell-learning.slack.com/messages/learning-lens/) - a group dedicated to learning lenses concept in general and the [lens library](https://hackage.haskell.org/package/lens) specifically.
+- [#haskellbook](https://haskell-learning.slack.com/messages/haskellbook/) - a reading group on the [Haskell Book](http://haskellbook.com/).
+
 # How can I join?
 Just email Alexey Shmalko at <rasen.dubi@gmail.com> or Konstiantyn Rybnikov at <k-bx@k-bx.com> and we'll add you to Slack.
 
