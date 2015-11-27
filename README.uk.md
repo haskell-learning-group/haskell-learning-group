@@ -18,6 +18,14 @@ Haskell.
 цього іншим людям, та можливо навіть самі станете ментором, але ж
 звичайно все це виключно за вашим бажанням.
 
+Окрім основного менторства, ми також маємо декілька навчальних груп:
+
+- [#learning-lens](https://haskell-learning.slack.com/messages/learning-lens/) -
+  група, присвячена вивченню як концепції функціональних лінз в цілому так і
+  [бібліотеки lens](https://hackage.haskell.org/package/lens) зокрема
+- [#haskellbook](https://haskell-learning.slack.com/messages/haskellbook/) -
+  група з читання книги [Haskell Book](http://haskellbook.com/)
+
 # Як приєднатись?
 
 Напишіть листа Олексію Шмалько <rasen.dubi@gmail.com> або Костянтину
