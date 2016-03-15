@@ -1,6 +1,6 @@
 https://haskell-learning.slack.com/
 
-[In English](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.md) | [Українською](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.uk.md) | [In het Nederlands](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.nl.md)
+[In English](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.md) | [Українською](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.uk.md)
 
 # Что это?
 Мы предлагаем программу менторства всем желающим.
@@ -35,7 +35,7 @@ https://haskell-learning.slack.com/
 Мы любим Хаскель и хотим разделить эту любовь с другими.
 
 ## Какие языки поддерживаются?
-Среди менторов есть носители русского, украинского, английского и нидерландского языков.
+Среди менторов есть носители русского, украинского и английского языков.
 
 ## Какие ваши планы на будущее?
 После того как у нас будет достаточно менторов и опытных учащихся, мы надеемся начать работать над учебными проектами и позже над реальными.
