@@ -1,6 +1,6 @@
 https://haskell-learning.slack.com/
 
-[In English](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.md) | [Українською](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.uk.md)
+[In English](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.md) | [Українською](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.uk.md) | [auf Deutsch](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.de.md)
 
 # Что это?
 Мы предлагаем программу менторства всем желающим.
@@ -15,7 +15,6 @@ https://haskell-learning.slack.com/
 - [#haskellbook](https://haskell-learning.slack.com/messages/haskellbook/) - группа чтения [Haskell Book](http://haskellbook.com/).
 
 # Как я могу присоединиться?
-
 Отправьте ваш email Алексею Шмалько на <rasen.dubi@gmail.com> или Константину Рыбникову на <k-bx@k-bx.com>, чтобы мы могли добавить вас в группу slack.
 
 ## Я никогда не программировал раньше. Вы примете меня?
@@ -35,7 +34,7 @@ https://haskell-learning.slack.com/
 Мы любим Хаскель и хотим разделить эту любовь с другими.
 
 ## Какие языки поддерживаются?
-Среди менторов есть носители русского, украинского и английского языков.
+Среди менторов есть носители русского, немецкого, украинского и английского языков.
 
 ## Какие ваши планы на будущее?
 После того как у нас будет достаточно менторов и опытных учащихся, мы надеемся начать работать над учебными проектами и позже над реальными.

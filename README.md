@@ -1,6 +1,6 @@
 https://haskell-learning.slack.com/
 
-[На русском](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.ru.md) | [Українською](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.uk.md)
+[На русском](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.ru.md) | [Українською](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.uk.md) [Deutsch](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.de.md)
 
 # What's this?
 We are offering a Haskell mentoring program for everyone.
@@ -35,7 +35,7 @@ Yeah, sure. Everyone is free to participate in discussions and ask questions in 
 We're in love with Haskell and want to share this love with other people.
 
 ## What languages are supported?
-Our mentors speak one or more of Russian, Ukrainian, and English.
+Our mentors speak one or more of Russian, Ukrainian, German and English.
 
 ## What are your future plans?
 After getting enough mentors and skilled students we hope to start working on training projects in groups, and eventually real projects.

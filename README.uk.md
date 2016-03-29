@@ -1,6 +1,6 @@
 https://haskell-learning.slack.com/
 
-[In English](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.md) | [На русском](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.ru.md)
+[In English](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.md) | [На русском](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.ru.md) | [auf Deutsch](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.de.md)
 
 # Що це?
 
@@ -59,7 +59,7 @@ Haskell.
 
 ## Якими мовами ви володієте?
 
-Наші ментори володіють Українською, Російською та Англійською.
+Наші ментори володіють Українською, Німецькою, Російською та Англійською.
 
 ## Які ваші плани на майбутнє?
 
