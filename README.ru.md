@@ -12,7 +12,7 @@ https://haskell-learning.slack.com/
 Также у нас имеется несколько групп:
 
 - [#learning-lens](https://haskell-learning.slack.com/messages/learning-lens/) - группа посвященная изучению концепции линз и [библиотеке lens](https://hackage.haskell.org/package/lens) в частности.
-- [#haskellbook](https://haskell-learning.slack.com/messages/haskellbook/) - груb
+- [#haskellbook](https://haskell-learning.slack.com/messages/haskellbook/) - группа чтения [Haskell Book](http://haskellbook.com/).
 
 Отправьте ваш email Алексею Шмалько на <rasen.dubi@gmail.com> или Константину Рыбникову на <k-bx@k-bx.com>, чтобы мы могли добавить вас в группу slack.
 
@@ -33,7 +33,7 @@ https://haskell-learning.slack.com/
 Мы любим Хаскель и хотим разделить эту любовь с другими.
 
 ## Какие языки поддерживаются?
-Среди менторов есть носители русского, немецкий, украинского и английского языков.
+Среди менторов есть носители русского, немецкого, украинского и английского языков.
 
 ## Какие ваши планы на будущее?
 После того как у нас будет достаточно менторов и опытных учащихся, мы надеемся начать работать над учебными проектами и позже над реальными.
