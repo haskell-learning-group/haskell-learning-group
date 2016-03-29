@@ -21,7 +21,7 @@ Schicke einfach eine Email an Alexey Shmalko  <rasen.dubi@gmail.com> oder Konsti
 Klar - für die meisten fühlt sich Haskell sowieso so anders an, dass sie praktisch von Vorne beginnen - Du bist also auf einem ähnlichen Level wie alle anderen hier.
 
 # Ich würde gerne ein Mentor werden - geht das?
-Super, schreib Alexey oder Kostia an und wir unterhalten uns mit Dir darüber.
+Ja auf jeden Fall, schreib Alexey oder Kostia an und wir unterhalten uns mit Dir darüber.
 
 ## Ich bin mir nicht sicher ob ich ein guter Mentor wäre aber ich würde es gerne versuchen.
 Das ist kein Problem - wir stellen Dir einen zusätzlichen Mentor zur Seite der im Notfall aushelfen kann.
