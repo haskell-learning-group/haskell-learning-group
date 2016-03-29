@@ -14,6 +14,7 @@ https://haskell-learning.slack.com/
 - [#learning-lens](https://haskell-learning.slack.com/messages/learning-lens/) - группа посвященная изучению концепции линз и [библиотеке lens](https://hackage.haskell.org/package/lens) в частности.
 - [#haskellbook](https://haskell-learning.slack.com/messages/haskellbook/) - группа чтения [Haskell Book](http://haskellbook.com/).
 
+# Как я могу присоединиться?
 Отправьте ваш email Алексею Шмалько на <rasen.dubi@gmail.com> или Константину Рыбникову на <k-bx@k-bx.com>, чтобы мы могли добавить вас в группу slack.
 
 ## Я никогда не программировал раньше. Вы примете меня?
