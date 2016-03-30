@@ -1,6 +1,6 @@
 https://haskell-learning.slack.com/
 
-[На русском](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.ru.md) | [Українською](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.uk.md) [Deutsch](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.de.md)
+[На русском](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.ru.md) | [Українською](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.uk.md) | [auf Deutsch](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.de.md)
 
 # What's this?
 We are offering a Haskell mentoring program for everyone.
