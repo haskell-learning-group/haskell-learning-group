@@ -27,7 +27,7 @@ Ja auf jeden Fall, schreib Alexey oder Kostia an und wir unterhalten uns mit Dir
 Das ist kein Problem - wir stellen Dir einen zusätzlichen Mentor zur Seite der im Notfall aushelfen kann.
 
 # Kann ich mitmachen auch wenn ich kein Mentor werden will?
-Natürlich - jeder kann in den allgemeinen Kanälen Fragen stellen und mit diskutieren.
+Natürlich - jeder kann in den allgemeinen Kanälen Fragen stellen und mitdiskutieren.
 
 # Sonstiges
 
