@@ -41,4 +41,4 @@ Our mentors speak one or more of Russian, Ukrainian, German and English.
 After getting enough mentors and skilled students we hope to start working on training projects in groups, and eventually real projects.
 
 ## I still have a question, how can I ask it?
-Ask Artyom (@neongreen in Slack and on Github).
+In #general (or write Artyom directly – either @neongreen in Slack or <yom@artyom.me> by mail).
