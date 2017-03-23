@@ -15,13 +15,13 @@ Bisher haben wir folgende Lerngruppen:
 - [#haskellbook](https://haskell-learning.slack.com/messages/haskellbook/) - diese Gruppe liest und beschäftigt sich mit dem [Haskell Book](http://haskellbook.com/).
 
 # Wie kann ich beitreten?
-Schicke einfach eine Email an Alexey Shmalko  <rasen.dubi@gmail.com> oder Konstiantyn Rybnikov <k-bx@k-bx.com> und wir fügen Dich der Slack-Gruppe hinzu.
+Schicke einfach eine Email an Artyom <yom@artyom.me> und wir fügen Dich der Slack-Gruppe hinzu.
 
 ## Ich habe noch nie programmiert - kann ich trotzdem mitmachen?
 Klar - für die meisten fühlt sich Haskell sowieso so anders an, dass sie praktisch von Vorne beginnen - Du bist also auf einem ähnlichen Level wie alle anderen hier.
 
 # Ich würde gerne ein Mentor werden - geht das?
-Ja auf jeden Fall, schreib Alexey oder Kostia an und wir unterhalten uns mit Dir darüber.
+Ja auf jeden Fall, schreib Artyom an und wir unterhalten uns mit Dir darüber.
 
 ## Ich bin mir nicht sicher ob ich ein guter Mentor wäre aber ich würde es gerne versuchen.
 Das ist kein Problem - wir stellen Dir einen zusätzlichen Mentor zur Seite der im Notfall aushelfen kann.
@@ -41,4 +41,4 @@ Unsere Mentoren beherrschen eine oder mehrere folgender Sprachen: Russisch, Ukra
 Sobald wir genügend Mentoren und fähige Studenten haben, hoffen wir mit der Arbeit an Trainingsprojekten in Gruppen beginnen zu können. Fernziel sollen tatsächliche Projekte sein.
 
 ## Ich habe noch Fragen - wo kann ich die stellen?
-Frag Alexey Shmalko <rasen.dubi@gmail.com> oder Konstiantyn Rybnikov <k-bx@k-bx.com> oder stelle die Frage in #general auf Slack.
+Frag Artyom <yom@artyom.me> oder stelle die Frage in #general auf Slack.
