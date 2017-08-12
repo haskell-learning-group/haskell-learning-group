@@ -1,4 +1,4 @@
-https://haskell-learning.slack.com/
+[**зарегистрироваться**](https://slackin-mmadwuiawy.now.sh)
 
 [In English](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.md) | [Українською](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.uk.md) | [auf Deutsch](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.de.md)
 
@@ -15,7 +15,7 @@ https://haskell-learning.slack.com/
 - [#haskellbook](https://haskell-learning.slack.com/messages/haskellbook/) - группа чтения [Haskell Book](http://haskellbook.com/).
 
 # Как я могу присоединиться?
-Пошлите письмо Артёму на <yom@artyom.me> и он добавит вас в группу. Когда-нибудь потом мы сделаем автоинвайт.
+Зарегистрируйтесь: [Haskell Learning Group](https://slackin-mmadwuiawy.now.sh). Если не работает – пошлите письмо Артёму на <yom@artyom.me>.
 
 ## Я никогда не программировал раньше. Вы примете меня?
 Конечно. На самом деле, изучение Хаскеля похоже на изучение программирования с нуля, поэтому вы будете на примерно том же уровне, что и остальные.

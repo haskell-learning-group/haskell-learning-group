@@ -1,4 +1,4 @@
-https://haskell-learning.slack.com/
+[**sign up**](https://slackin-mmadwuiawy.now.sh)
 
 [На русском](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.ru.md) | [Українською](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.uk.md) | [auf Deutsch](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.de.md)
 
@@ -15,7 +15,7 @@ There is also a number of study groups:
 - [#haskellbook](https://haskell-learning.slack.com/messages/haskellbook/) - a reading group on the [Haskell Book](http://haskellbook.com/).
 
 # How can I join?
-Just email Artyom at <yom@artyom.me> and he'll add you to the group. In the future we'll have automatic signup available.
+Sign up here: [Haskell Learning Group](https://slackin-mmadwuiawy.now.sh). If it doesn't work, email Artyom at <yom@artyom.me>.
 
 ## I haven't programmed before, can I still take part?
 Sure. Actually, learning Haskell is like learning programming from scratch, so you're starting out on a level similar to most others.

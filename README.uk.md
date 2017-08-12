@@ -1,4 +1,4 @@
-https://haskell-learning.slack.com/
+[**зареєструватися**](https://slackin-mmadwuiawy.now.sh)
 
 [In English](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.md) | [На русском](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.ru.md) | [auf Deutsch](https://github.com/haskell-learning-group/haskell-learning-group/blob/master/README.de.md)
 
@@ -28,8 +28,8 @@ Haskell.
 
 # Як приєднатись?
 
-Напишіть листа Артему <yom@artyom.me>, і ми запросимо вас у наш
-Slack-чат.
+Зареєструйтеся: [Haskell Learning Group](https://slackin-mmadwuiawy.now.sh).
+Якщо не працює - надішліть листа Артему на <yom@artyom.me>.
 
 ## Я раніше ні на чому не програмував, чи можна до вас приєднатись?
 
